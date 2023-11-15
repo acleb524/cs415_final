@@ -13,4 +13,6 @@
 
 #### 5. Change the 'image_path' variable to be the path to the data you downloaded
 
-#### 6. Run the script. Cleaned images will be in a folder titled 'clean_images'
+#### 6. Run the script. Cleaned images will be in a folder titled 'clean_images', You should see a histogram that looks like this:
+
+![image](https://github.com/monkeygobah/cs415_final/assets/117255104/996b33cd-3a1d-4d4d-b01f-675dd186b161)
